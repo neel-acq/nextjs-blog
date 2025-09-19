@@ -1,6 +1,7 @@
 ---
 title: Dolore sequi quia re
 excerpt: Et obcaecati dolorem
+coverImage: /assets/cursor.png
 date: 1972-10-04T14:25:00.000Z
 author:
   name: Ashely Hewitt
